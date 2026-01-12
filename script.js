@@ -26,6 +26,8 @@ username: username,
 email: email,
 password: password
 };
+console.log(savedUser);
+
 
 
 // Tampilkan pesan sukses
@@ -57,4 +59,5 @@ alert("Login berhasil!");
 alert("Email atau password salah");
 }
 }
+
 
